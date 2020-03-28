@@ -5,10 +5,10 @@ require (
 	github.com/disintegration/imaging v1.6.0
 	github.com/fatih/structs v1.1.0
 	github.com/go-gl/gl v0.0.0-20190320180904-bf2b1f2f34d7
-	github.com/ofuangka/glfw/v3.3/glfw
 	github.com/go-gl/mathgl v0.0.0-20190713194549-592312d8590a // indirect
 	github.com/golang/freetype v0.0.0-20170609003504-e2365dfdc4a0
 	github.com/lucasb-eyer/go-colorful v1.0.2
+	github.com/ofuangka/glfw v0.0.0-20200328181121-c5f82a1d0c3c // indirect
 	github.com/pelletier/go-toml v1.6.0
 	github.com/stretchr/testify v1.3.0 // indirect
 	github.com/tanema/gween v0.0.0-20190613150852-fbc00f26ef8f
